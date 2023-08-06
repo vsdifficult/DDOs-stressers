@@ -5,7 +5,7 @@ import random, io, requests
 from threading import Thread
 
 uA = [
-    
+    #insert multiple user agents
 ]
 
 
